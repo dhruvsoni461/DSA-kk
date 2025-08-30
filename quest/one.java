@@ -1,3 +1,4 @@
+package quest;
 // git add . 
 // git commit -m "initial commit"
 // git push origin main
@@ -6,12 +7,12 @@
 
 // Build Array from Permutation  //
 // Concatenation of Array    //
-// Running Sum of 1d Array
-// Richest Customer Wealth
-// Shuffle the Array
-// Kids With the Greatest Number of Candies
-// Number of Good Pairs
-// How Many Numbers Are Smaller Than the Current Number
+// Running Sum of 1d Array   //
+// Richest Customer Wealth   //
+// Shuffle the Array     //
+// Kids With the Greatest Number of Candies  
+// Number of Good Pairs  //
+// How Many Numbers Are Smaller Than the Current Number  //
 // Create Target Array in the Given Order
 // Check if the Sentence Is Pangram
 // Count Items Matching a Rule
