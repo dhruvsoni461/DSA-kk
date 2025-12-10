@@ -1,4 +1,4 @@
-package quest;
+// package quest;
 // git add . 
 // git commit -m "initial commit"
 // git push origin main
@@ -27,9 +27,9 @@ package quest;
 // Determine Whether Matrix Can Be Obtained By Rotation
 // Two Sum
 // Find N Unique Integers Sum up to Zero
-// Lucky Number In a Matrix
+// Lucky Number In a Matrix....
 // Maximum Subarray
-// Reshape the Matrix
-// Plus One
-// Remove Duplicates from Sorted Array
-// Minimum Cost to Move Chips to The Same Position
+// Reshape the Matrix...
+// Plus One  //
+// Remove Duplicates from Sorted Array  //
+// Minimum Cost to Move Chips to The Same Position.....
