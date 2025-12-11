@@ -21,16 +21,16 @@ public class CustomStack {
         return true;
     }
 
-    public int peek() throws Exception{
+    public int peek() throws StackException{
         if(isEmpty()){
-            throw new Exception("Can not peek from an empty Stack!!");
+            throw new StackException("Can not peek from an empty Stack!!");
         }
         return data[ptr];
     }
 
-    public int pop() throws Exception{
+    public int pop() throws StackException{
         if(isEmpty()){
-            throw new Exception("Can not pop from an empty Stack!!");
+            throw new StackException("Can not pop from an empty Stack!!");
         }
 //        int removed = data[ptr];
 //        ptr--;
@@ -38,11 +38,11 @@ public class CustomStack {
         return data[ptr--];
     }
 
-    private boolean isFull() {
+    public boolean isFull() {
         return ptr == data.length - 1;
     }
 
-    private boolean isEmpty(){
+    public boolean isEmpty(){
         return ptr == -1;
     }
 }
