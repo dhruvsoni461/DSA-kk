@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA-kk.iml" filepath="$PROJECT_DIR$/.idea/DSA-kk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queues/Stack_Queues.iml" filepath="$PROJECT_DIR$/Stack_Queues/Stack_Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/linkList.iml" filepath="$PROJECT_DIR$/linkedList/linkList.iml" />
     </modules>
   </component>
