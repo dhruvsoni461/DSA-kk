@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysQuestion/ArraysQuestion.iml" filepath="$PROJECT_DIR$/ArraysQuestion/ArraysQuestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA-kk.iml" filepath="$PROJECT_DIR$/.idea/DSA-kk.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack_Queues/Stack_Queues.iml" filepath="$PROJECT_DIR$/Stack_Queues/Stack_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queues/Stack_Queues_questions/Stack_Queues_questions.iml" filepath="$PROJECT_DIR$/Stack_Queues/Stack_Queues_questions/Stack_Queues_questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/linkList.iml" filepath="$PROJECT_DIR$/linkedList/linkList.iml" />
     </modules>
   </component>
