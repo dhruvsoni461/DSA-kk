@@ -4,10 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArraysQuestion/ArraysQuestion.iml" filepath="$PROJECT_DIR$/ArraysQuestion/ArraysQuestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA-kk.iml" filepath="$PROJECT_DIR$/.idea/DSA-kk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Double_ended_queue/Double_ended_queue.iml" filepath="$PROJECT_DIR$/Double_ended_queue/Double_ended_queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack_Queues/Stack_Queues.iml" filepath="$PROJECT_DIR$/Stack_Queues/Stack_Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack_Queues/Stack_Queues_questions/Stack_Queues_questions.iml" filepath="$PROJECT_DIR$/Stack_Queues/Stack_Queues_questions/Stack_Queues_questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circular_queue/circular_queue.iml" filepath="$PROJECT_DIR$/circular_queue/circular_queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_questions/common_questions.iml" filepath="$PROJECT_DIR$/common_questions/common_questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/linkList.iml" filepath="$PROJECT_DIR$/linkedList/linkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obj_orie_prog/obj_orie_prog.iml" filepath="$PROJECT_DIR$/obj_orie_prog/obj_orie_prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tnp_linked_list/tnp_linked_list.iml" filepath="$PROJECT_DIR$/tnp_linked_list/tnp_linked_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tnp_queue/tnp_queue.iml" filepath="$PROJECT_DIR$/tnp_queue/tnp_queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tnp_recurssion/tnp_recurssion.iml" filepath="$PROJECT_DIR$/tnp_recurssion/tnp_recurssion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tnp_tree/tnp_tree.iml" filepath="$PROJECT_DIR$/tnp_tree/tnp_tree.iml" />
     </modules>
   </component>
 </project>
